@@ -33,5 +33,5 @@ public class CalculatorImpl implements Calculator {
 		}
 		return result;
 	}
-	
+
 }
